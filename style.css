@@ -1,0 +1,10 @@
+*{
+    box-sizing: border-box;
+}
+
+.list {
+    border: 1px solid black;
+}
+ul{
+    border: 1px solid black;
+}
